@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://dosasm.github.io/blog</id>
+    <title>DOSASM Blog</title>
+    <updated>2021-08-10T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://dosasm.github.io/blog"/>
+    <subtitle>DOSASM Blog</subtitle>
+    <icon>https://dosasm.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[加油，干饭人]]></title>
+        <id>initDocs</id>
+        <link href="https://dosasm.github.io/blog/initDocs"/>
+        <updated>2021-08-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[忙里偷闲，略做整理。]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>welcome</id>
+        <link href="https://dosasm.github.io/blog/welcome"/>
+        <updated>2019-05-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Blog features are powered by the blog plugin. Simply add files to the blog directory. It supports tags as well!]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello]]></title>
+        <id>hello-world</id>
+        <link href="https://dosasm.github.io/blog/hello-world"/>
+        <updated>2019-05-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to this blog. This blog is created with Docusaurus 2.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hola]]></title>
+        <id>hola</id>
+        <link href="https://dosasm.github.io/blog/hola"/>
+        <updated>2019-05-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></summary>
+    </entry>
+</feed>
