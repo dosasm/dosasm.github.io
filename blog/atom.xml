@@ -13,6 +13,10 @@
         <link href="https://dosasm.github.io/blog/initDocs"/>
         <updated>2021-08-10T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[忙里偷闲，略做整理。]]></summary>
+        <author>
+            <name>陈留城下</name>
+            <uri>https://github.com/xsro</uri>
+        </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
@@ -20,6 +24,10 @@
         <link href="https://dosasm.github.io/blog/welcome"/>
         <updated>2019-05-30T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Blog features are powered by the blog plugin. Simply add files to the blog directory. It supports tags as well!]]></summary>
+        <author>
+            <name>Yangshun Tay</name>
+            <uri>https://github.com/yangshun</uri>
+        </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello]]></title>
@@ -27,6 +35,10 @@
         <link href="https://dosasm.github.io/blog/hello-world"/>
         <updated>2019-05-29T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Welcome to this blog. This blog is created with Docusaurus 2.]]></summary>
+        <author>
+            <name>Endilie Yacop Sucipto</name>
+            <uri>https://github.com/endiliey</uri>
+        </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hola]]></title>
@@ -34,5 +46,9 @@
         <link href="https://dosasm.github.io/blog/hola"/>
         <updated>2019-05-28T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></summary>
+        <author>
+            <name>Gao Wei</name>
+            <uri>https://github.com/wgao19</uri>
+        </author>
     </entry>
 </feed>
